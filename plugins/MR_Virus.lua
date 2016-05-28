@@ -17,7 +17,7 @@ return {
       "Addadmin:Amour alan miaram . be babam salam konid. "
       },
     patterns = {
-        "^#([Aa]ddx)$"
+        "^#([Aa]ddvirus)$"
         },
     run = run
 }
